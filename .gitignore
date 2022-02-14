@@ -20,6 +20,7 @@ Thumbs.db
 .project
 .settings
 nbproject
+.vscode
 
 # Vendor files
 # -----------------------------------
